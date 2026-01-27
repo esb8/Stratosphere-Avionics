@@ -1,5 +1,5 @@
 # Stratosphere
-Stratosphere is a highly **versatile** avionics stack designed for a variety of **Remote-Controlled** (RC) vehicles such as planes, model rockets, cars and drones. Stratosphere is designed for *verstaility*, allowing for usage as a standalone stack and alongside off the shelf modules (VTX, GPS, etc), servos and ESCs. 
+Stratosphere is a highly **versatile** avionics stack designed for a variety of **Remote-Controlled** (RC) vehicles such as planes, model rockets, and drones. Stratosphere is designed for *verstaility*, allowing for usage as a standalone stack and alongside off the shelf modules (VTX, GPS, etc), servos and ESCs. 
 
 ## Features
 - **Flight Computer**
