@@ -64,7 +64,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -1621,18 +1620,6 @@
 			(layer "F.Fab")
 			(uuid "c1cfd3c6-7f9a-4576-8e12-f5e5a60237b4")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -0.25 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87139150-fad9-4458-893d-47aa7115e155")
-			(effects
-				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
-				)
-			)
-		)
 		(pad "1" smd roundrect
 			(at -0.5 0)
 			(size 0.56 0.62)
@@ -2106,7 +2093,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "b539c00a-5575-415d-96eb-0b1196da7dfe")
+			(uuid "4e63ea30-a44b-495c-924b-83983d0abba0")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.wrl"
@@ -4186,7 +4173,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "c0292e84-2a7a-409d-b167-82648018987d")
+			(uuid "bdd54255-fa52-4160-a342-fe7dca1f0e52")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.wrl"
@@ -4643,7 +4630,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "e4ddd55d-4513-420c-9b15-736b5b194d05")
+			(uuid "f906ab77-0c3c-460b-8f98-73eb4eddf155")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.wrl"
@@ -4974,7 +4961,7 @@
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "3e7dd03c-d617-4137-9e66-f4726708f8ca")
+			(uuid "e59ba1d6-ec21-4c4b-9342-c710d533ac0f")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -2.54)
@@ -4982,7 +4969,7 @@
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "3e7dd03c-d617-4137-9e66-f4726708f8ca")
+			(uuid "13f5e1e5-6e54-46db-b44e-8b9f82fb2895")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 2.54)
@@ -4990,7 +4977,7 @@
 			(drill 1.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "3e7dd03c-d617-4137-9e66-f4726708f8ca")
+			(uuid "5319f5d1-7822-4d94-adf5-b72702e399aa")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Amphenol_901-144_Vertical.wrl"
@@ -5755,18 +5742,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "d1bf2d4e-e0ba-4c2f-b237-65235568d7e3")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -0.25 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3ccb18e9-0732-4bb3-9f5c-ea23c7714d01")
-			(effects
-				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
-				)
-			)
 		)
 		(pad "1" smd roundrect
 			(at -0.5 0 270)
@@ -10958,7 +10933,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "7f6196da-12fa-420f-8e82-0a95f2b9ea5b")
+			(uuid "747cc8fc-f4c2-4acc-a6c1-9e5a2af84c91")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.wrl"
@@ -12845,18 +12820,6 @@
 			(layer "F.Fab")
 			(uuid "0f575bd8-1bdc-414d-97c1-e52d58f33dea")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -0.25 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "af8291a6-e6fd-44ac-8f76-970de96da76c")
-			(effects
-				(font
-					(size 0.25 0.25)
-					(thickness 0.04)
-				)
-			)
-		)
 		(pad "1" smd roundrect
 			(at -0.5 0 180)
 			(size 0.56 0.62)
@@ -13673,7 +13636,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "5c62a125-8558-4050-b9df-4bbdcf5adf6f")
+			(uuid "d611b2b7-e99a-4414-8297-ff2f0b22a751")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical.wrl"
@@ -14414,7 +14377,7 @@
 			(size 1 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "7563ac2e-4e81-47e6-b16f-728859c3604b")
+			(uuid "4d55fbab-422c-48a8-98f3-7bc5feb274ed")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.wrl"
